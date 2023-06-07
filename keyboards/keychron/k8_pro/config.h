@@ -16,6 +16,8 @@
 
 #pragma once
 
+#define IGNORE_MOD_TAP_INTERRUPT
+
 /* key matrix size */
 #define MATRIX_ROWS 6
 #define MATRIX_COLS 17
