@@ -16,6 +16,7 @@
 
 #pragma once
 
+#define TAPPING_TERM 220
 #define IGNORE_MOD_TAP_INTERRUPT
 
 /* key matrix size */
