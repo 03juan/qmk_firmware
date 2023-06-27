@@ -30,7 +30,7 @@ enum layers{
 #define LCTL_F CTL_T(KC_F)
 #define HOME_J RCTL_T(KC_J)
 #define RSFT_K RSFT_T(KC_K)
-#define RALT_L RALT_T(KC_L)
+#define RALT_L ALT_T(KC_L)
 #define RGUI_SCLN RGUI_T(KC_SCLN)
 #define L3_CAPS LT(WIN_FN, KC_CAPS)
 
